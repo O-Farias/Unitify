@@ -31,7 +31,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 ### **1. Clone o Repositório**
 ```bash
-git clone https://github.com/seu-usuario/unitify.git
+git clone https://github.com/O-Farias/unitify.git
 cd unitify
 ```
 
